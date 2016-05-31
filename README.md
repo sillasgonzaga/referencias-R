@@ -1,4 +1,5 @@
 # My favorite R packages
+toc: yes
 
 
 Categories:  
