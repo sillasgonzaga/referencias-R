@@ -2,9 +2,9 @@
 
 
 Categories:  
-- [Survival Analysis](#Survival Analysis)
+- [Survival Analysis](#survival-analysis)
 - Big Data
-- [Data Mining](#Data Mining)
+- [Data Mining](#data-mining)
 - Data Transformation
 - Datasets
 - Miscellanious
