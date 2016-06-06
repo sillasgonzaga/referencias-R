@@ -1,6 +1,3 @@
----
-toc: yes
----
 # My favorite R packages
 
 Categories:  
