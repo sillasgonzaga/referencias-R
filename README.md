@@ -149,7 +149,7 @@ teste imagem
 [![](http://i.imgur.com/zSgvNCa.png)](http://rstudio-pubs-static.s3.amazonaws.com/1751_124cc40ae97d42a1923f097036a541fd.html)
 
 - Visualizar um "corredor" no `geom_line`
-- 
+
 [![](https://www.rstats-tips.net/wp-content/uploads/2016/02/ggplot-3-270x300.png)](https://www.rstats-tips.net/2016/02/using-geom_ribbon-to-visualize-a-corridor-for-your-data/)
 - Mapas no R, parte 2: utilizando shapes
 [![](https://sociaisemetodos.files.wordpress.com/2013/09/mapa-pib-estados.png?w=584&h=539)](https://sociaisemetodos.wordpress.com/2013/09/15/mapas-no-r-parte-2-utilizando-shapes/)
