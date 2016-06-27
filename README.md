@@ -1,3 +1,14 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Geral](#)
+- [Análise de Redes Sociais](#)
+- [Séries Temporais](#)
+- [Machine Learning](#)
+- [Datasets](#)
+- [Não relacionados ao R](#)
+- [Gráficos](#)
+
+
 # Geral
 - [What is R?](http://www.revolutionanalytics.com/what-r), artigo introdutório sobre o R da Revolution Analytics.
 - [For Big-Data Scientists, ‘Janitor Work’ Is Key Hurdle to Insights](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?partner=rss&emc=rss&smid=tw-nytimesscience&_r=1), ótimo artigo do NYT sobre Data Wrangling.
