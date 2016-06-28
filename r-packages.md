@@ -105,4 +105,4 @@ Categories:
 - FeedbackTS: Analysis of fragmented time directionality to investigate feedback in time series. Key day definition.
 - [TTR](https://cran.r-project.org/web/packages/TTR/index.html): Functions and data to construct technical trading rules with R.
 - [fTrading](https://cran.r-project.org/web/packages/fTrading/index.html): Technical Trading Analysis
- 
+- [AnalyzeTS](https://cran.r-project.org/web/packages/AnalyzeTS/index.html): Analyze (Fuzzy) Time Series
