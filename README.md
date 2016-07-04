@@ -49,6 +49,7 @@
 - [Writing an R package from scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
 - [StAtliNk](http://statlink.tripod.com/index.html): Megacoleção de links para materias de ensino de diversos assuntos de Estatística
 - [Control Structures Loops in R](http://www.dataperspective.info/2016/02/control-structures-loops-in-r.html): Tutorial sobre estruturas de controle como `ifelse`, `for loops`, `while loops`, `break`, etc.
+- [Efficient R programming](https://csgillespie.github.io/efficientR/): Ebook online.
 
 
 # Análise de Redes Sociais
