@@ -50,6 +50,7 @@
 - [StAtliNk](http://statlink.tripod.com/index.html): Megacoleção de links para materias de ensino de diversos assuntos de Estatística
 - [Control Structures Loops in R](http://www.dataperspective.info/2016/02/control-structures-loops-in-r.html): Tutorial sobre estruturas de controle como `ifelse`, `for loops`, `while loops`, `break`, etc.
 - [Efficient R programming](https://csgillespie.github.io/efficientR/): Ebook online.
+- [UseR 2016](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016?sort=sequential&direction=desc&term=&Media=true#theSessions)
 
 
 # Análise de Redes Sociais
