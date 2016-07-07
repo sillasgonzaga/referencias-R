@@ -188,3 +188,7 @@ teste imagem
 
 - Grafo de SNA com legenda de pontos
 [![](http://jmbh.github.io/figs/bundestag/bundestag_cond_ss_names.jpg)](http://jmbh.github.io//Analyzing-voting-pattern-of-German-parliament/)
+
+- Gráfico mapa-mundi animado com ggplot2  
+[![](http://ellisp.github.io/img/0048-ehii.gif)](http://ellisp.github.io/blog/2016/07/02/ehii-map)
+
