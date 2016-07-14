@@ -193,3 +193,5 @@ teste imagem
 - Gráfico mapa-mundi animado com ggplot2  
 [![](http://ellisp.github.io/img/0048-ehii.gif)](http://ellisp.github.io/blog/2016/07/02/ehii-map)
 
+- Gráficos de densidades empilhados  
+[![](http://i.stack.imgur.com/jT65k.png)](http://stackoverflow.com/questions/33619980/spread-out-density-plots-with-ggplot/33620860#33620860)
