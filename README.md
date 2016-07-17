@@ -51,7 +51,9 @@
 - [Control Structures Loops in R](http://www.dataperspective.info/2016/02/control-structures-loops-in-r.html): Tutorial sobre estruturas de controle como `ifelse`, `for loops`, `while loops`, `break`, etc.
 - [Efficient R programming](https://csgillespie.github.io/efficientR/): Ebook online.
 - [UseR 2016](https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016?sort=sequential&direction=desc&term=&Media=true#theSessions)
-
+- [Happy Git and GitHub for the useR](http://happygitwithr.com/)
+- [dplyr do: Some Tips for Using and Programming](http://www.quantide.com/website/dplyr-do-tips-using-programming/)
+- [Submitting your first package to CRAN, my experience](https://rmhogervorst.github.io/cleancode/blog/2016/07/09/submtting-to-cran-first-experience.html)
 
 # Análise de Redes Sociais
 - [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph)
@@ -96,6 +98,7 @@
 - [Mais de 50 Cheat Sheets de Data Science](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
 - [Introdução de machine learning com `caret`](http://www.sharpsightlabs.com/quick-introduction-machine-learning-r-caret/)
 - [ Recommender Systems 101: Basket Analysis](http://opensourceconnections.com/blog/2016/06/06/recommender-systems-101-basket-analysis/)
+- [Never Tell Me the Odds! Machine Learning with Class Imbalances](https://github.com/topepo/useR2016)
 
 
 # Datasets
@@ -196,3 +199,6 @@ teste imagem
 
 - Gráficos de densidades empilhados  
 [![](http://i.stack.imgur.com/jT65k.png)](http://stackoverflow.com/questions/33619980/spread-out-density-plots-with-ggplot/33620860#33620860)
+
+- Gráfico de densidades
+[<img src="https://rud.is/b/wp-content/uploads/2016/07/genfull.png" alt="Smiley face" width="1000" height="500">](https://rud.is/b/2016/07/07/bridging-the-political-polygons-gap-with-ggplot2/)
