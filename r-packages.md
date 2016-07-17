@@ -106,3 +106,4 @@ Categories:
 - [TTR](https://cran.r-project.org/web/packages/TTR/index.html): Functions and data to construct technical trading rules with R.
 - [fTrading](https://cran.r-project.org/web/packages/fTrading/index.html): Technical Trading Analysis
 - [AnalyzeTS](https://cran.r-project.org/web/packages/AnalyzeTS/index.html): Analyze (Fuzzy) Time Series
+- [tempdisagg](https://cran.r-project.org/web/packages/tempdisagg/index.html): Methods for Temporal Disaggregation and Interpolation of Time Series (ex.: transforma série anual em mensal)
