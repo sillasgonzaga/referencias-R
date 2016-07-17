@@ -95,6 +95,7 @@
 - [Lista de ebooks em Data Science](https://advanceddataanalytics.net/ebooks/)
 - [Mais de 50 Cheat Sheets de Data Science](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
 - [Introdução de machine learning com `caret`](http://www.sharpsightlabs.com/quick-introduction-machine-learning-r-caret/)
+- [ Recommender Systems 101: Basket Analysis](http://opensourceconnections.com/blog/2016/06/06/recommender-systems-101-basket-analysis/)
 
 
 # Datasets
