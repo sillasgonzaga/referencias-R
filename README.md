@@ -129,6 +129,9 @@
 - [Getting started with LaTeX](https://www.reddit.com/r/LaTeX/comments/j2326/getting_started_with_LaTeX)
 
 
+# Vídeos
+- [Pipelines for data analysis in R](https://www.rstudio.com/resources/webinars/pipelines-for-data-analysis-in-r/)
+
 
 # Gráficos
 - [Catálogo de exemplos gráficos feitos com ggplot2](http://shiny.stat.ubc.ca/r-graph-catalog/)
