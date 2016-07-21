@@ -128,6 +128,7 @@
 - [How I’ve Avoided Burnout During More Than 3 Decades As A Programmer](http://thecodist.com/article/how-i-ve-avoided-burnout-during-more-than-3-decades-as-a-programmer)
 - [Templates Latex](http://www.latextemplates.com/)
 - [Getting started with LaTeX](https://www.reddit.com/r/LaTeX/comments/j2326/getting_started_with_LaTeX)
+- [Step 1: Developers Agree to Deadlines](http://www.sleepeasysoftware.com/step-1-developers-agree-to-deadlines/)
 
 
 # Vídeos
