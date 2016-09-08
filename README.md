@@ -54,6 +54,7 @@
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/)
 - [dplyr do: Some Tips for Using and Programming](http://www.quantide.com/website/dplyr-do-tips-using-programming/)
 - [Submitting your first package to CRAN, my experience](https://rmhogervorst.github.io/cleancode/blog/2016/07/09/submtting-to-cran-first-experience.html)
+- [From Jupyter Notebooks to R Markdown](http://danielphadley.com/Jupyter-to-Rmarkdown/)
 
 # Análise de Redes Sociais
 - [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph)
