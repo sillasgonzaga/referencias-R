@@ -119,7 +119,7 @@
 - [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
 - [Dados públicos](http://www.dadosaleatorios.com.br/2015/05/dados-publicos.html): lista de dados públicos brasileiros
 - [Como importar os microdados do Censo da Educação Superior no R](http://metodologiapolitica.com/639/#sthash.gWntPazo.Rme0zDwe.dpbs) 
-
+- [ UCR Time Series Classification Archive](http://www.cs.ucr.edu/~eamonn/time_series_data/)
 
 # Não relacionados ao R
 - [Dicas de VIM para Noobs](https://woliveiras.com.br/vimparanoobs/)
