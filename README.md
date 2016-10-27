@@ -57,6 +57,7 @@
 - [Submitting your first package to CRAN, my experience](https://rmhogervorst.github.io/cleancode/blog/2016/07/09/submtting-to-cran-first-experience.html)
 - [From Jupyter Notebooks to R Markdown](http://danielphadley.com/Jupyter-to-Rmarkdown/)
 - [Efficient R programming](https://csgillespie.github.io/efficientR/)
+- [In R, what is the difference between the [] and [[]] notations for accessing the elements of a list?](http://stackoverflow.com/questions/1169456/in-r-what-is-the-difference-between-the-and-notations-for-accessing-the)
 
 # Análise de Redes Sociais
 - [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph)
@@ -147,6 +148,7 @@
 
 
 # Gráficos
+- [R graph gallery](http://www.r-graph-gallery.com/)
 - [Catálogo de exemplos gráficos feitos com ggplot2](http://shiny.stat.ubc.ca/r-graph-catalog/)
 
 <!---
