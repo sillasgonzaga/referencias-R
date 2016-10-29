@@ -222,8 +222,9 @@ teste imagem
 - Gráfico de densidades
 [<img src="https://rud.is/b/wp-content/uploads/2016/07/genfull.png" alt="Smiley face" width="1000" height="500">](https://rud.is/b/2016/07/07/bridging-the-political-polygons-gap-with-ggplot2/)
 
-- Mapa
 [![](http://i.imgur.com/xYMEQrk.jpg)](http://robertmyles.github.io/ElectionsBR.html)
 
 [![](http://i.imgur.com/I6tbsLI.png)](http://curleylab.psych.columbia.edu/nba.html)
+
+[![](http://i.imgur.com/Zw50xz9.png)](http://motioninsocial.com/tufte/?utm_content=buffer5a3a5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.VzsuWNYmRYY.buffer)
 
