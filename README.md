@@ -126,6 +126,7 @@
 - [ UCR Time Series Classification Archive](http://www.cs.ucr.edu/~eamonn/time_series_data/)
 - [17 places to find datasets for data science projects](https://www.dataquest.io/blog/free-datasets-for-projects/)
 - [Pokemon datasets](https://www.kaggle.com/abcsds/pokemon)
+- [Dados abertos da UFRN](http://dados.ufrn.br/)
 
 # Shiny
 - [Leaflet example](https://uasnap.shinyapps.io/ex_leaflet/)
