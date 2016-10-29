@@ -104,6 +104,7 @@
 - [ Recommender Systems 101: Basket Analysis](http://opensourceconnections.com/blog/2016/06/06/recommender-systems-101-basket-analysis/)
 - [Never Tell Me the Odds! Machine Learning with Class Imbalances](https://github.com/topepo/useR2016)
 - [Convert More Sales Leads With Machine Learning](http://gormanalysis.com/convert-more-sales-leads-with-machine-learning/)
+- [R for Data Science](http://r4ds.had.co.nz/index.html) book  
 
 
 # Datasets
