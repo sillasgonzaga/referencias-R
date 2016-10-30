@@ -1,15 +1,3 @@
-**Sumário**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
-- [Geral](Geral)
-- [Análise de Redes Sociais](#)
-- [Séries Temporais](#)
-- [Machine Learning](#)
-- [Datasets](#)
-- [Não relacionados ao R](#)
-- [Gráficos](#)
-- [Shiny](Shiny)
-
-
 # Geral
 - [What is R?](http://www.revolutionanalytics.com/what-r), artigo introdutório sobre o R da Revolution Analytics.
 - [For Big-Data Scientists, ‘Janitor Work’ Is Key Hurdle to Insights](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?partner=rss&emc=rss&smid=tw-nytimesscience&_r=1), ótimo artigo do NYT sobre Data Wrangling.
@@ -26,8 +14,6 @@
 - [Problema de Simulação de Gols](http://rpubs.com/adriano/gols_no_futebol), tutorial sobre simulação.
 - [Identify, describe, plot, and remove the outliers from the dataset](http://datascienceplus.com/identify-describe-plot-and-removing-the-outliers-from-the-dataset/): como tratar outliers
 - [On soccer’s declining home field advantage](https://statsbylopez.com/2016/05/13/on-soccers-declining-home-field-advantage/): Análise de dados de futebol
-- [Scrape website data with the new R package rvest (+ a postscript on interacting with web pages with RSelenium)](http://zevross.com/blog/2015/05/19/scrape-website-data-with-the-new-r-package-rvest/): Tutorial webscraping
-- [Oficina de webscraping de dados Legislativos com R e XML](https://github.com/leobarone/Webscraping_R_XML_Legislativo_2016_1)
 - [R e RStudio](https://analisereal.com/2015/01/20/r-e-rstudio-2/): Aula introdutória sobre o Rstudio
 - [R tutorial on the Apply family of functions](https://www.datacamp.com/community/tutorials/r-tutorial-apply-family)
 - [Statistical Tests](http://r-statistics.co/Statistical-Tests-in-R.html): Tutorial de testes estatísticos.
@@ -58,6 +44,11 @@
 - [From Jupyter Notebooks to R Markdown](http://danielphadley.com/Jupyter-to-Rmarkdown/)
 - [Efficient R programming](https://csgillespie.github.io/efficientR/)
 - [In R, what is the difference between the [] and [[]] notations for accessing the elements of a list?](http://stackoverflow.com/questions/1169456/in-r-what-is-the-difference-between-the-and-notations-for-accessing-the)
+
+# Web Scraping
+- [Scrape website data with the new R package rvest (+ a postscript on interacting with web pages with RSelenium)](http://zevross.com/blog/2015/05/19/scrape-website-data-with-the-new-r-package-rvest/): Tutorial webscraping
+- [Oficina de webscraping de dados Legislativos com R e XML](https://github.com/leobarone/Webscraping_R_XML_Legislativo_2016_1)
+
 
 # Análise de Redes Sociais
 - [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph)
