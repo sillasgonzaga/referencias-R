@@ -44,6 +44,7 @@
 - [From Jupyter Notebooks to R Markdown](http://danielphadley.com/Jupyter-to-Rmarkdown/)
 - [Efficient R programming](https://csgillespie.github.io/efficientR/)
 - [In R, what is the difference between the [] and [[]] notations for accessing the elements of a list?](http://stackoverflow.com/questions/1169456/in-r-what-is-the-difference-between-the-and-notations-for-accessing-the)
+- [ Ordering categories within ggplot2 facets](https://drsimonj.svbtle.com/ordering-categories-within-ggplot2-facets)
 
 # Web Scraping
 - [Scrape website data with the new R package rvest (+ a postscript on interacting with web pages with RSelenium)](http://zevross.com/blog/2015/05/19/scrape-website-data-with-the-new-r-package-rvest/): Tutorial webscraping
