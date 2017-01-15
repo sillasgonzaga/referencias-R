@@ -47,6 +47,7 @@
 - [ Ordering categories within ggplot2 facets](https://drsimonj.svbtle.com/ordering-categories-within-ggplot2-facets)
 - [How to Use Plotly with Jekyll and Github Pages](http://ryankuhn.net/blog/How-To-Use-Plotly-With-Jekyll)
 - [How to write good tests in R](https://cartesianfaith.com/2016/06/30/how-to-write-good-tests-in-r/)
+- [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
 # Web Scraping
 - [Scrape website data with the new R package rvest (+ a postscript on interacting with web pages with RSelenium)](http://zevross.com/blog/2015/05/19/scrape-website-data-with-the-new-r-package-rvest/): Tutorial webscraping
