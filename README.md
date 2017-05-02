@@ -48,6 +48,9 @@
 - [How to Use Plotly with Jekyll and Github Pages](http://ryankuhn.net/blog/How-To-Use-Plotly-With-Jekyll)
 - [How to write good tests in R](https://cartesianfaith.com/2016/06/30/how-to-write-good-tests-in-r/)
 - [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
+- [Time Keeps on Slipping](https://dsaber.com/2017/04/02/time-keeps-on-slipping-exploiting-time-for-causal-inference-with-difference-in-differences-and-panel-methods/) - Exploiting Time for Causal Inference with Difference-in-Differences and Panel Methods
+- [Transaction Costs are Not an Afterthought](https://ntguardian.wordpress.com/2017/04/10/transaction-costs-not-an-afterthought-quantstrat/) - Transaction Costs in quantstrat]()
+- [An Introduction to Stock Market Data Analysis with R (Part 2)](https://ntguardian.wordpress.com/2017/04/03/introduction-stock-market-data-r-2/)
 
 # Web Scraping
 - [Scrape website data with the new R package rvest (+ a postscript on interacting with web pages with RSelenium)](http://zevross.com/blog/2015/05/19/scrape-website-data-with-the-new-r-package-rvest/): Tutorial webscraping
