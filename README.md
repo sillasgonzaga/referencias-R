@@ -52,6 +52,7 @@
 - [Transaction Costs are Not an Afterthought](https://ntguardian.wordpress.com/2017/04/10/transaction-costs-not-an-afterthought-quantstrat/) - Transaction Costs in quantstrat]()
 - [An Introduction to Stock Market Data Analysis with R (Part 2)](https://ntguardian.wordpress.com/2017/04/03/introduction-stock-market-data-r-2/)
 - [To eat or not to eat! That's the question? Measuring the association between categorical variables](https://duttashi.github.io/blog/to-eat-or-not-to-eat/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+RStoriesDataSpeak+%28R+%E2%80%93+Stories+Data+Speak%29)
+- [Simple bash script for a fresh install of R and its dependencies in Linux](https://www.r-bloggers.com/simple-bash-script-for-a-fresh-install-of-r-and-its-dependencies-in-linux/)
 
 # Web Scraping
 - [Scrape website data with the new R package rvest (+ a postscript on interacting with web pages with RSelenium)](http://zevross.com/blog/2015/05/19/scrape-website-data-with-the-new-r-package-rvest/): Tutorial webscraping
