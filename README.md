@@ -59,6 +59,11 @@
 - [Scrape website data with the new R package rvest (+ a postscript on interacting with web pages with RSelenium)](http://zevross.com/blog/2015/05/19/scrape-website-data-with-the-new-r-package-rvest/): Tutorial webscraping
 - [Oficina de webscraping de dados Legislativos com R e XML](https://github.com/leobarone/Webscraping_R_XML_Legislativo_2016_1)
 
+# Text mining
+- [Single Word Analysis of Early 19th Century Poetry Using tidytext](http://blog.eighty20.co.za//package%20exploration/2017/06/12/sentiment-blog-post/)  
+- [Texto no R](https://github.com/leobarone/FLS6397/blob/master/tutorials/tutorial11.Rmd)
+- [Text Mining with R - ebook](http://tidytextmining.com/)
+- [RDRPOSTagger - R package to perform Parts of Speech tagging and morphological tagging based on the Ripple Down Rules-based Part-Of-Speech Tagger (RDRPOS)](https://github.com/bnosac/RDRPOSTagger)
 
 # Análise de Redes Sociais
 - [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph)
@@ -106,6 +111,7 @@
 - [Never Tell Me the Odds! Machine Learning with Class Imbalances](https://github.com/topepo/useR2016)
 - [Convert More Sales Leads With Machine Learning](http://gormanalysis.com/convert-more-sales-leads-with-machine-learning/)
 - [R for Data Science](http://r4ds.had.co.nz/index.html) book  
+- [When the LASSO fails](https://insightr.wordpress.com/2017/06/14/when-the-lasso-fails/)
 
 
 # Datasets
