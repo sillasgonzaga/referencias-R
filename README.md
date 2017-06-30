@@ -81,7 +81,7 @@
 - [Time Series Analysis](http://r-statistics.co/Time-Series-Analysis-With-R.html)
 - [Time Series Forecasting](http://r-statistics.co/Time-Series-Forecasting-With-R.html)
 - [Getting Started with Hidden Markov Models in R](http://blog.revolutionanalytics.com/2014/03/r-and-hidden-markov-models.html): Tutorial de aplicação de HMMs em séries temporais
-
+- [The R Trader](http://www.thertrader.com/)
 
 
 # Machine Learning
