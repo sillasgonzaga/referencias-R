@@ -114,6 +114,9 @@
 - [Convert More Sales Leads With Machine Learning](http://gormanalysis.com/convert-more-sales-leads-with-machine-learning/)
 - [R for Data Science](http://r4ds.had.co.nz/index.html) book  
 - [When the LASSO fails](https://insightr.wordpress.com/2017/06/14/when-the-lasso-fails/)
+- [Recommendation System Algorithms](https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3)
+- [Item Based Collaborative Filtering Recommender Systems in R](http://www.dataperspective.info/2015/11/item-based-collaborative-filtering-in-r.html)
+- [Collaborative Filtering with R](http://www.salemmarafi.com/code/collaborative-filtering-r/)
 
 
 # Datasets
