@@ -117,7 +117,8 @@
 - [Recommendation System Algorithms](https://blog.statsbot.co/recommendation-system-algorithms-ba67f39ac9a3)
 - [Item Based Collaborative Filtering Recommender Systems in R](http://www.dataperspective.info/2015/11/item-based-collaborative-filtering-in-r.html)
 - [Collaborative Filtering with R](http://www.salemmarafi.com/code/collaborative-filtering-r/)
-- [Missing Data, XGBoost, and R — Part 1](https://medium.com/rv-data/missing-data-xgboost-and-r-part-1-1048179937bd)
+- [Missing Data, XGBoost, and R — Part 1](https://medium.com/rv-data/missing-data-xgboost-and-r-part-1-1048179937bd)  
+- [EventStudy: Event Study Analysis in R](https://cran.rstudio.com/web/packages/EventStudy/): pacote R
 
 # Datasets
 - [A Comprehensive List of 2500+ Open Data Portals around the World](https://goo.gl/kCRpi7)
