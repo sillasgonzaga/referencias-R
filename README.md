@@ -55,6 +55,11 @@
 - [Simple bash script for a fresh install of R and its dependencies in Linux](https://www.r-bloggers.com/simple-bash-script-for-a-fresh-install-of-r-and-its-dependencies-in-linux/)
 - [Getting started with the purrr package in R](http://data.library.virginia.edu/getting-started-with-the-purrr-package-in-r/)
 
+# Shiny
+- [ Sending data from client to server and back using shiny](https://ryouready.wordpress.com/2013/11/20/sending-data-from-client-to-server-and-back-using-shiny/)
+- [Shiny module design patterns: Pass module inputs to other modules](https://itsalocke.com/shiny-module-design-patterns-pass-module-input-to-other-modules/)
+
+
 # Web Scraping
 - [Scrape website data with the new R package rvest (+ a postscript on interacting with web pages with RSelenium)](http://zevross.com/blog/2015/05/19/scrape-website-data-with-the-new-r-package-rvest/): Tutorial webscraping
 - [Oficina de webscraping de dados Legislativos com R e XML](https://github.com/leobarone/Webscraping_R_XML_Legislativo_2016_1)
