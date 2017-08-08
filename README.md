@@ -58,6 +58,7 @@
 # Shiny
 - [ Sending data from client to server and back using shiny](https://ryouready.wordpress.com/2013/11/20/sending-data-from-client-to-server-and-back-using-shiny/)
 - [Shiny module design patterns: Pass module inputs to other modules](https://itsalocke.com/shiny-module-design-patterns-pass-module-input-to-other-modules/)
+- [The R Shiny packages you need for your web apps!](http://enhancedatascience.com/2017/07/10/the-packages-you-need-for-your-r-shiny-application/)
 
 
 # Web Scraping
@@ -88,7 +89,8 @@
 - [Getting Started with Hidden Markov Models in R](http://blog.revolutionanalytics.com/2014/03/r-and-hidden-markov-models.html): Tutorial de aplicação de HMMs em séries temporais
 - [The R Trader](http://www.thertrader.com/) 
 - [Doing magic and analyzing seasonal time series with GAM (Generalized Additive Model) in R](https://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/)
-
+- [Identifying periods of change in time series with GAMs](http://www.fromthebottomoftheheap.net/2014/05/15/identifying-periods-of-change-with-gams/)
+- [Measuring persistence in a time series : Application of rolling window regression](http://programming-r-pro-bro.blogspot.com.br/2012/07/measuring-persistence-in-time-series.html)
 
 # Machine Learning
 - [Fitting & Interpreting Linear Models in R](http://blog.yhat.com/posts/r-lm-summary.html): tutorial de regressão linear no R
@@ -250,7 +252,7 @@ teste imagem
 
 [![](http://i.imgur.com/Zw50xz9.png)](http://motioninsocial.com/tufte/?utm_content=buffer5a3a5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.VzsuWNYmRYY.buffer)
 
-
-
 [![](https://i1.wp.com/www.stoltzmaniac.com/wp-content/uploads/2017/08/immigration-enforcement-plots-1.png)](https://www.stoltzmaniac.com/us-immigration-enforcement-part-1/)
+
+[![](http://68.media.tumblr.com/2560a551db2cefc95b5ee8ebd51bf3f6/tumblr_inline_otsngqBwOH1qa0hyw_500.png)](http://www.exactness.net/post/163519386590/visualising-similarity-maps-vs-graphs)
 
