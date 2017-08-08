@@ -86,7 +86,8 @@
 - [Time Series Analysis](http://r-statistics.co/Time-Series-Analysis-With-R.html)
 - [Time Series Forecasting](http://r-statistics.co/Time-Series-Forecasting-With-R.html)
 - [Getting Started with Hidden Markov Models in R](http://blog.revolutionanalytics.com/2014/03/r-and-hidden-markov-models.html): Tutorial de aplicação de HMMs em séries temporais
-- [The R Trader](http://www.thertrader.com/)
+- [The R Trader](http://www.thertrader.com/) 
+- [Doing magic and analyzing seasonal time series with GAM (Generalized Additive Model) in R](https://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/)
 
 
 # Machine Learning
@@ -124,6 +125,8 @@
 - [Collaborative Filtering with R](http://www.salemmarafi.com/code/collaborative-filtering-r/)
 - [Missing Data, XGBoost, and R — Part 1](https://medium.com/rv-data/missing-data-xgboost-and-r-part-1-1048179937bd)  
 - [EventStudy: Event Study Analysis in R](https://cran.rstudio.com/web/packages/EventStudy/): pacote R
+- [Facebook Topic Modeling](http://www.tjpalanca.com/static/20170308-fb-topic-modeling.html): Belos gráficos interativos
+
 
 # Datasets
 - [A Comprehensive List of 2500+ Open Data Portals around the World](https://goo.gl/kCRpi7)
@@ -246,4 +249,8 @@ teste imagem
 [![](http://i.imgur.com/I6tbsLI.png)](http://curleylab.psych.columbia.edu/nba.html)
 
 [![](http://i.imgur.com/Zw50xz9.png)](http://motioninsocial.com/tufte/?utm_content=buffer5a3a5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.VzsuWNYmRYY.buffer)
+
+
+
+[![](https://i1.wp.com/www.stoltzmaniac.com/wp-content/uploads/2017/08/immigration-enforcement-plots-1.png)](https://www.stoltzmaniac.com/us-immigration-enforcement-part-1/)
 
