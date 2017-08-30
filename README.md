@@ -72,7 +72,8 @@
 - [Texto no R](https://github.com/leobarone/FLS6397/blob/master/tutorials/tutorial11.Rmd)
 - [Text Mining with R - ebook](http://tidytextmining.com/)
 - [RDRPOSTagger - R package to perform Parts of Speech tagging and morphological tagging based on the Ripple Down Rules-based Part-Of-Speech Tagger (RDRPOS)](https://github.com/bnosac/RDRPOSTagger)
-- [ A Fixação de Colbert ](http://ctlente.com/pt/trump-colbert/)
+- [ A Fixação de Colbert ](http://ctlente.com/pt/trump-colbert/) 
+- [IMDB Genre Classification using Deep Learning](https://www.r-bloggers.com/imdb-genre-classification-using-deep-learning/)
 
 # Análise de Redes Sociais
 - [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph)
