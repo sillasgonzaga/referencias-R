@@ -74,6 +74,10 @@
 - [RDRPOSTagger - R package to perform Parts of Speech tagging and morphological tagging based on the Ripple Down Rules-based Part-Of-Speech Tagger (RDRPOS)](https://github.com/bnosac/RDRPOSTagger)
 - [ A Fixação de Colbert ](http://ctlente.com/pt/trump-colbert/) 
 - [IMDB Genre Classification using Deep Learning](https://www.r-bloggers.com/imdb-genre-classification-using-deep-learning/)
+- [Sentiment Analysis Using R Language](http://www.evoketechnologies.com/blog/sentiment-analysis-r-language/)
+- [Sentiment Analysis on Twitter Data for Portuguese Language](https://www.researchgate.net/publication/262175717_Sentiment_Analysis_on_Twitter_Data_for_Portuguese_Language) 
+- [ Working on Sentiment Analysis on Twitter with Portuguese Language ](http://aimotion.blogspot.com.br/2010/07/working-on-sentiment-analysis-on.html)
+- [Mineração de Texto - Prof. Walmes M. Zeviani]()
 
 # Análise de Redes Sociais
 - [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph)
