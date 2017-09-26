@@ -81,6 +81,7 @@
 - [Pacote tidytext](https://github.com/juliasilge/tidytext)  
 - [Text Mining of Stack Overflow Questions](https://juliasilge.com/blog/text-mining-stack-overflow/)
 - [Women in film](https://github.com/juliasilge/women-in-film)
+- [Datasets de exemplos para Text Mining em PT-BR](http://www.uff.br/cdme/lpp/lpp-html/lpp-v-br-file.html)
 
 # Análise de Redes Sociais
 - [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph)
