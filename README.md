@@ -138,7 +138,9 @@
 - [Collaborative Filtering with R](http://www.salemmarafi.com/code/collaborative-filtering-r/)
 - [Missing Data, XGBoost, and R — Part 1](https://medium.com/rv-data/missing-data-xgboost-and-r-part-1-1048179937bd)  
 - [EventStudy: Event Study Analysis in R](https://cran.rstudio.com/web/packages/EventStudy/): pacote R
-- [Facebook Topic Modeling](http://www.tjpalanca.com/static/20170308-fb-topic-modeling.html): Belos gráficos interativos
+- [Facebook Topic Modeling](http://www.tjpalanca.com/static/20170308-fb-topic-modeling.html): Belos gráficos interativos  
+- [Top 15 Evaluation Metrics for Classification Models](https://www.machinelearningplus.com/evaluation-metrics-classification-models-r/)
+
 
 
 # Datasets
