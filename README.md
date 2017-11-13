@@ -55,6 +55,7 @@
 - [Simple bash script for a fresh install of R and its dependencies in Linux](https://www.r-bloggers.com/simple-bash-script-for-a-fresh-install-of-r-and-its-dependencies-in-linux/)
 - [Getting started with the purrr package in R](http://data.library.virginia.edu/getting-started-with-the-purrr-package-in-r/).
 - [Scheduling R scripts for a team using RStudio Server, Docker, Github and Google Compute Engine](http://code.markedmondson.me/setting-up-scheduled-R-scripts-for-an-analytics-team/)
+- [Criando um mapa do Brasil no R em 7 passos](https://dataficacao.wordpress.com/2017/02/21/criando-mapa-brasil-r/)
 
 # Shiny
 - [ Sending data from client to server and back using shiny](https://ryouready.wordpress.com/2013/11/20/sending-data-from-client-to-server-and-back-using-shiny/)
