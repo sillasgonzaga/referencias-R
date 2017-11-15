@@ -141,6 +141,7 @@
 - [EventStudy: Event Study Analysis in R](https://cran.rstudio.com/web/packages/EventStudy/): pacote R
 - [Facebook Topic Modeling](http://www.tjpalanca.com/static/20170308-fb-topic-modeling.html): Belos gráficos interativos  
 - [Top 15 Evaluation Metrics for Classification Models](https://www.machinelearningplus.com/evaluation-metrics-classification-models-r/)
+- [Multinomial Logistic Regression | R Data Analysis Examples](https://stats.idre.ucla.edu/r/dae/multinomial-logistic-regression/)
 
 
 
