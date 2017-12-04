@@ -83,6 +83,8 @@
 - [Text Mining of Stack Overflow Questions](https://juliasilge.com/blog/text-mining-stack-overflow/)
 - [Women in film](https://github.com/juliasilge/women-in-film)
 - [Datasets de exemplos para Text Mining em PT-BR](http://www.uff.br/cdme/lpp/lpp-html/lpp-v-br-file.html)
+- [A Tidytext Analysis of the Weinstein Effect](https://www.gokhanciflikli.com/post/weinstein-effect/)  
+
 
 # Análise de Redes Sociais
 - [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph)
@@ -141,7 +143,9 @@
 - [EventStudy: Event Study Analysis in R](https://cran.rstudio.com/web/packages/EventStudy/): pacote R
 - [Facebook Topic Modeling](http://www.tjpalanca.com/static/20170308-fb-topic-modeling.html): Belos gráficos interativos  
 - [Top 15 Evaluation Metrics for Classification Models](https://www.machinelearningplus.com/evaluation-metrics-classification-models-r/)
-- [Multinomial Logistic Regression | R Data Analysis Examples](https://stats.idre.ucla.edu/r/dae/multinomial-logistic-regression/)
+- [Multinomial Logistic Regression | R Data Analysis Examples](https://stats.idre.ucla.edu/r/dae/multinomial-logistic-regression/)  
+- [Visualização de dados para randomForest, xgboost e outros modelos](http://smarterpoland.pl/index.php/2017/12/explain-explain-explain/)
+- [Diary of a Data Scientist at Booking.com](https://towardsdatascience.com/diary-of-a-data-scientist-at-booking-com-924734c71417)
 
 
 
@@ -185,6 +189,11 @@
 
 # Vídeos
 - [Pipelines for data analysis in R](https://www.rstudio.com/resources/webinars/pipelines-for-data-analysis-in-r/)
+
+# Rstudio Server e Shiny Server
+- [Hosting RStudio Server on Azure](http://blog.jumpingrivers.com/posts/2017/rstudio_azure_cloud_1/)  
+- [Shiny server series part 1: setting up](https://www.jasperginn.nl/shiny-server-series-pt1/)  
+
 
 
 # Gráficos
