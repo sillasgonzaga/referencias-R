@@ -200,7 +200,8 @@
 
 # Gráficos
 - [R graph gallery](http://www.r-graph-gallery.com/)
-- [Catálogo de exemplos gráficos feitos com ggplot2](http://shiny.stat.ubc.ca/r-graph-catalog/)
+- [Catálogo de exemplos gráficos feitos com ggplot2](http://shiny.stat.ubc.ca/r-graph-catalog/)  
+- [ebbok: Data Visualization A practical introduction](http://socviz.co/)  
 
 <!---
 teste imagem
