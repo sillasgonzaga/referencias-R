@@ -283,3 +283,6 @@ teste imagem
 
 [![](http://68.media.tumblr.com/2560a551db2cefc95b5ee8ebd51bf3f6/tumblr_inline_otsngqBwOH1qa0hyw_500.png)](http://www.exactness.net/post/163519386590/visualising-similarity-maps-vs-graphs)
 
+
+
+[![](https://italocegatta.github.io/post/2018-03-24-qual-estado-tem-mais-pau-rodado_files/figure-html/unnamed-chunk-9-1.png)](https://italocegatta.github.io/qual-estado-tem-mais-pau-rodado/)
