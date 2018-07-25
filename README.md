@@ -106,7 +106,8 @@
 - [Doing magic and analyzing seasonal time series with GAM (Generalized Additive Model) in R](https://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/)
 - [Identifying periods of change in time series with GAMs](http://www.fromthebottomoftheheap.net/2014/05/15/identifying-periods-of-change-with-gams/)
 - [Measuring persistence in a time series : Application of rolling window regression](http://programming-r-pro-bro.blogspot.com.br/2012/07/measuring-persistence-in-time-series.html)
-- [Endogenously Detecting Structural Breaks in a Time Series: Implementation in R](https://pythonandr.com/2016/11/08/endogenously-detecting-structural-breaks-in-a-time-series-implementation-in-r/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+RDiscoveringPythonR+%28R+%E2%80%93+Discovering+Python+%26+R%29)
+- [Endogenously Detecting Structural Breaks in a Time Series: Implementation in R](https://pythonandr.com/2016/11/08/endogenously-detecting-structural-breaks-in-a-time-series-implementation-in-r/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+RDiscoveringPythonR+%28R+%E2%80%93+Discovering+Python+%26+R%29)  
+- [Forecasting YYZ Passengers in the Tidyverse](http://unconj.ca/blog/forecasting-yyz-passengers-in-the-tidyverse.html)
 
 # Machine Learning
 - [Fitting & Interpreting Linear Models in R](http://blog.yhat.com/posts/r-lm-summary.html): tutorial de regressão linear no R
