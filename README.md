@@ -67,7 +67,8 @@
 # Web Scraping
 - [Scrape website data with the new R package rvest (+ a postscript on interacting with web pages with RSelenium)](http://zevross.com/blog/2015/05/19/scrape-website-data-with-the-new-r-package-rvest/): Tutorial webscraping
 - [Oficina de webscraping de dados Legislativos com R e XML](https://github.com/leobarone/Webscraping_R_XML_Legislativo_2016_1)
-- [API packages](https://github.com/r-lib/httr/blob/master/vignettes/api-packages.Rmd)
+- [API packages](https://github.com/r-lib/httr/blob/master/vignettes/api-packages.Rmd)  
+- [Cookies, sessions e formulários na web. Navegue na internet com o R!](https://sociaisemetodos.wordpress.com/2018/07/24/cookies-sessions-e-formularios-na-web-navegue-na-internet-com-o-r/)
 
 # Text mining
 - [Single Word Analysis of Early 19th Century Poetry Using tidytext](http://blog.eighty20.co.za//package%20exploration/2017/06/12/sentiment-blog-post/)  
