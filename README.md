@@ -147,7 +147,8 @@
 - [Top 15 Evaluation Metrics for Classification Models](https://www.machinelearningplus.com/evaluation-metrics-classification-models-r/)
 - [Multinomial Logistic Regression | R Data Analysis Examples](https://stats.idre.ucla.edu/r/dae/multinomial-logistic-regression/)  
 - [Visualização de dados para randomForest, xgboost e outros modelos](http://smarterpoland.pl/index.php/2017/12/explain-explain-explain/)
-- [Diary of a Data Scientist at Booking.com](https://towardsdatascience.com/diary-of-a-data-scientist-at-booking-com-924734c71417)
+- [Diary of a Data Scientist at Booking.com](https://towardsdatascience.com/diary-of-a-data-scientist-at-booking-com-924734c71417)  
+- [Explaining Black-Box Machine Learning Models - Code Part 1: tabular data + caret + iml](https://shirinsplayground.netlify.com/2018/07/explaining_ml_models_code_caret_iml/)
 
 
 
@@ -187,7 +188,8 @@
 - [Step 1: Developers Agree to Deadlines](http://www.sleepeasysoftware.com/step-1-developers-agree-to-deadlines/)
 - [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.jovwp8j4i)
 - [Why I’m Not a Fan of R-Squared](http://www.johnmyleswhite.com/notebook/2016/07/23/why-im-not-a-fan-of-r-squared/)  
-- [Why is machine learning in finance so hard?](https://www.hardikp.com/2018/02/11/why-is-machine-learning-in-finance-so-hard/)
+- [Why is machine learning in finance so hard?](https://www.hardikp.com/2018/02/11/why-is-machine-learning-in-finance-so-hard/)  
+- [finding books to read](http://thiagomarzagao.com/2018/07/23/finding-boogs-to-read/)
 
 
 # Vídeos
